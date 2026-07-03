@@ -164,17 +164,6 @@ python train_mode_model.py
 
 ---
 
-## 📸 Project Screenshots
-
-Add screenshots of your project here.
-
-```bash
-screenshots/homepage.png
-screenshots/prediction_result.png
-```
-
----
-
 ## 👨‍💻 Author
 
 ### **Dasari Devika**
